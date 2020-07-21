@@ -7,6 +7,9 @@ Oh, and in the event that my code is not "pythonic" I welcome you to lend a hand
 This is not my day job.  
 
 
+Starting code is below:
+
+```
 """
 Created on Mon Jul 20 17:50:25 2020
 @author: ericervin
@@ -33,3 +36,4 @@ def create_a_better_world(people, gifts):
 # Run the function in an endless loop
 while True:
     create_a_better_world(people, gifts)
+```
